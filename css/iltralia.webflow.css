@@ -498,6 +498,11 @@
   grid-template-columns: 1fr 2fr;
 }
 
+.grid-5.home {
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+
 .container-6 {
   margin-top: 20px;
 }
