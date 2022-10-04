@@ -295,6 +295,10 @@
   background-size: auto, cover;
 }
 
+.section-3.home {
+  background-image: none;
+}
+
 .heading-2 {
   font-family: 'Open Sans', sans-serif;
   font-size: 32px;
