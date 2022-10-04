@@ -489,6 +489,11 @@
   grid-template-rows: auto auto;
 }
 
+.grid-5.empleo {
+  -ms-grid-columns: 1fr 2fr;
+  grid-template-columns: 1fr 2fr;
+}
+
 .container-6 {
   margin-top: 20px;
 }
@@ -599,6 +604,14 @@
 
 .textarea-2 {
   margin-bottom: 40px;
+}
+
+.div-block-13 {
+  height: 900px;
+}
+
+.background-video-2 {
+  height: 840px;
 }
 
 #w-node-_45640135-d816-ab1d-667c-efa18dc3eb54-2a8bad44 {
@@ -966,7 +979,7 @@
   grid-row-end: span 1;
 }
 
-#w-node-_26e6de57-cd37-3ac2-df42-7f29ff5cb00d-6b8e5443 {
+#w-node-d16c6b8f-dfd4-f257-6695-02d64d778bc4-6b8e5443 {
   -ms-grid-column: span 1;
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
